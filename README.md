@@ -54,7 +54,7 @@ I'm a dedicated Flutter developer with a passion for creating visually appealing
 
 ### SpendSync
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff3Z3sJ8V9zefx6/giphy.gif" alt="SpendSync Animation" width="300">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="SpendSync Animation" width="300">
 </p>
 - A dynamic expense tracker built with Flutter featuring real-time analytics and goal tracking.
 - [View on Google Play](https://play.google.com/store/apps/details?id=com.rml.spendsync&pcampaignid=web_share)
