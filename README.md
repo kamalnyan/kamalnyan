@@ -1,55 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kamal Nayan Kumar</h1>
-<h3 align="center">A Passionate Flutter Developer & Open Source Enthusiast</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/images/hello.gif" alt="Hello" width="400" />
+</p>
+
+<!-- Typewriter Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Open+Source+Enthusiast;Tech+Innovator&center=true&size=25" alt="Typewriter Animation" />
+</p>
+
+<h2 align="center">I'm Kamal Nayan Kumar</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamal-nayan-582506256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/kamalnayan73200/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="mailto:kamalnayan73200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/kamalnyan">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Globe Gaze & SpendSync**  
-- 🌱 I’m currently learning **Advanced Flutter & Firebase**  
-- 💬 Ask me about **Flutter, Firebase, WordPress Development & DS/Algo**  
-- 📫 How to reach me: [kamalnayan73200@gmail.com](mailto:kamalnayan73200@gmail.com)  
+- 🔭 I’m currently working on **Globe Gaze** & **SpendSync**
+- 🌱 I’m learning **Advanced Flutter & Firebase**
+- 💬 Ask me about **Flutter, Firebase, WordPress & DS/Algo**
+- 📫 Reach me at: [kamalnayan73200@gmail.com](mailto:kamalnayan73200@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL" />
 </p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-### 📱 SpendSync  
-📌 A Flutter-based expense tracker with real-time analytics & goal tracking  
-🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.rml.spendsync&pcampaignid=web_share)  
+### SpendSync
+<p align="center">
+  <img src="https://media.giphy.com/media/26Ff3Z3sJ8V9zefx6/giphy.gif" alt="SpendSync" width="300"/>
+</p>
+- A Flutter-based expense tracker featuring real-time analytics & goal tracking.
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.rml.spendsync&pcampaignid=web_share)
 
-### 🌍 Globe Gaze  
-📌 A social travel platform to connect travelers & explore destinations  
-🔗 [GitHub Repo](https://github.com/kamalnyan/globegaze)  
+### Globe Gaze
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Globe Gaze" width="300"/>
+</p>
+- A social travel platform to connect travelers & explore new destinations.
+- [GitHub Repo](https://github.com/kamalnyan/globegaze)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalnyan&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalnyan&theme=tokyonight" alt="Streak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kamalnyan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
@@ -58,19 +76,22 @@
 
 ---
 
-## 🎖️ Achievements & Certifications  
-🏆 **Top 1** Rank in Photography Competition (University Institute Of Computing)  
-🥈 **Top 2** Rank in Web-O-Thon (University Institute Of Computing)  
-🏅 Assisted NID Foundation in setting a **Global Record** for sanitary pad distribution  
+## 🎖️ Achievements
+- 🏆 Top 1 in Photography Competition (University Institute Of Computing)
+- 🥈 Top 2 in Web-O-Thon (University Institute Of Computing)
+- 🏅 Assisted NID Foundation in setting a **Global Record** for sanitary pad distribution
 
 ---
 
-## 📬 Let's Connect!  
-📩 [Email Me](mailto:kamalnayan73200@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-582506256/)  
-🚀 [GitHub](https://github.com/kamalnyan/)  
-👨‍💻 [LeetCode](https://leetcode.com/u/kamalnayan73200/)  
-
----
-
-⭐ **If you like my profile, do ⭐ my repositories!**
+## 📬 Let's Connect!
+<p align="center">
+  <a href="mailto:kamalnayan73200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kamalnayan73200@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kamal-nayan-582506256/">
+    <img src="https://img.shields.io/badge/LinkedIn-KamalNayan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kamalnyan">
+    <img src="https://img.shields.io/badge/GitHub-kamalnyan-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
