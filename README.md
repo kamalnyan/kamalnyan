@@ -51,7 +51,7 @@
 
 ### SpendSync
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff3Z3sJ8V9zefx6/giphy.gif" alt="SpendSync" width="300"/>
+  <img src="[https://media.giphy.com/media/26Ff3Z3sJ8V9zefx6/giphy.gif](https://media1.tenor.com/m/_RhqYxbudJ8AAAAC/burning-money-finance.gif)" alt="SpendSync" width="300"/>
 </p>
 - A Flutter-based expense tracker featuring real-time analytics & goal tracking.
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.rml.spendsync&pcampaignid=web_share)
