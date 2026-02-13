@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Creator;WordPress+Designer;Problem+Solver;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Creator;Startup+Builder;Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -15,10 +15,49 @@
 ## 🌟 About Me
 
 - 🎓 Pursuing **Masters in Computer Applications** at Chandigarh University  
-- 📱 Published app: **SpendSync** on Google Play  
-- 💡 Passionate about Flutter, UI/UX & modern mobile experiences  
-- 🧠 Love solving real-world problems with clean code  
+- 📱 Building real-world production apps used by daily riders  
+- 💡 Passionate about Flutter, UI/UX & scalable mobile systems  
+- 🧠 Love solving practical problems with clean architecture  
 - 📫 Reach me: **kamalnayan73200@gmail.com**
+
+---
+
+## 🚀 Live Apps on Play Store
+
+### 🚖 Yellow Rides – Premium Ride Booking Platform
+Reliable, comfortable, and affordable rides for local & intercity travel. Designed for stress-free commuting with safety-first architecture and seamless booking.
+
+✔ Affordable luxury rides  
+✔ Instant app booking  
+✔ Professional drivers  
+✔ Intercity & local travel  
+✔ Secure payments  
+
+📲 https://play.google.com/store/apps/details?id=com.yellowrides.yellowrides
+
+---
+
+### 🚘 Yellow Rides Driver – Driver Management App
+Official driver app helping partners manage rides, routes, and earnings efficiently.
+
+✔ Ride dashboard  
+✔ Trip tracking  
+✔ Simple navigation  
+✔ Lightweight performance  
+
+📲 https://play.google.com/store/apps/details?id=com.jaishreeraminternationalpvtltd.yellowridesdrivers
+
+---
+
+### 🧘 Bhav – Meditation & Mantra Japa App
+A peaceful mindfulness app for mantra chanting, meditation, and inner calm.
+
+✔ Japa counter  
+✔ Meditation timer  
+✔ Calming music  
+✔ Minimal distraction-free UI  
+
+📲 https://play.google.com/store/apps/details?id=com.arml.bhav
 
 ---
 
@@ -33,9 +72,6 @@
   </a>
   <a href="https://github.com/kamalnyan">
     <img src="https://img.shields.io/badge/GitHub-kamalnyan-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.rml.spendsync&pcampaignid=web_share">
-    <img src="https://img.shields.io/badge/SpendSync-App-green?style=for-the-badge&logo=google-play"/>
   </a>
 </p>
 
