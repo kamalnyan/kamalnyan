@@ -22,9 +22,10 @@
 
 ---
 
-## 🚀 Live Apps on Play Store
+## 🚀 Live Apps on App Stores
 
 ### 🚖 Yellow Rides – Premium Ride Booking Platform
+
 Reliable, comfortable, and affordable rides for local & intercity travel. Designed for stress-free commuting with safety-first architecture and seamless booking.
 
 ✔ Affordable luxury rides  
@@ -33,11 +34,19 @@ Reliable, comfortable, and affordable rides for local & intercity travel. Design
 ✔ Intercity & local travel  
 ✔ Secure payments  
 
-📲 https://play.google.com/store/apps/details?id=com.yellowrides.yellowrides
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.yellowrides.yellowrides">
+<img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
+<a href="https://apps.apple.com/in/app/yellow-rides/id6758200456">
+<img src="https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
 
 ---
 
 ### 🚘 Yellow Rides Driver – Driver Management App
+
 Official driver app helping partners manage rides, routes, and earnings efficiently.
 
 ✔ Ride dashboard  
@@ -45,11 +54,19 @@ Official driver app helping partners manage rides, routes, and earnings efficien
 ✔ Simple navigation  
 ✔ Lightweight performance  
 
-📲 https://play.google.com/store/apps/details?id=com.jaishreeraminternationalpvtltd.yellowridesdrivers
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.jaishreeraminternationalpvtltd.yellowridesdrivers">
+<img src="https://img.shields.io/badge/Google_Play-Driver_App-green?style=for-the-badge&logo=google-play"/>
+</a>
+<a href="https://apps.apple.com/in/app/yellow-rides-driver/id6758074906">
+<img src="https://img.shields.io/badge/App_Store-Driver_App-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
 
 ---
 
 ### 🧘 Bhav – Meditation & Mantra Japa App
+
 A peaceful mindfulness app for mantra chanting, meditation, and inner calm.
 
 ✔ Japa counter  
@@ -57,7 +74,9 @@ A peaceful mindfulness app for mantra chanting, meditation, and inner calm.
 ✔ Calming music  
 ✔ Minimal distraction-free UI  
 
-📲 https://play.google.com/store/apps/details?id=com.arml.bhav
+<a href="https://play.google.com/store/apps/details?id=com.arml.bhav">
+<img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
 
 ---
 
