@@ -15,7 +15,7 @@
 ## 🌟 About Me
 
 - 🎓 Pursuing **Masters in Computer Applications** at Chandigarh University  
-- 📱 Building real-world production apps used by daily riders  
+- 📱 Building real-world production apps used daily by riders & finance users  
 - 💡 Passionate about Flutter, UI/UX & scalable mobile systems  
 - 🧠 Love solving practical problems with clean architecture  
 - 📫 Reach me: **kamalnayan73200@gmail.com**
@@ -26,12 +26,11 @@
 
 ### 🚖 Yellow Rides – Premium Ride Booking Platform
 
-Reliable, comfortable, and affordable rides for local & intercity travel. Designed for stress-free commuting with safety-first architecture and seamless booking.
+Reliable, comfortable, and affordable rides for local & intercity travel with safety-first architecture.
 
 ✔ Affordable luxury rides  
-✔ Instant app booking  
+✔ Instant booking  
 ✔ Professional drivers  
-✔ Intercity & local travel  
 ✔ Secure payments  
 
 <p align="left">
@@ -47,12 +46,11 @@ Reliable, comfortable, and affordable rides for local & intercity travel. Design
 
 ### 🚘 Yellow Rides Driver – Driver Management App
 
-Official driver app helping partners manage rides, routes, and earnings efficiently.
+Driver platform for ride management, navigation, and earnings tracking.
 
-✔ Ride dashboard  
-✔ Trip tracking  
-✔ Simple navigation  
-✔ Lightweight performance  
+✔ Trip dashboard  
+✔ Route tracking  
+✔ Lightweight & fast  
 
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.jaishreeraminternationalpvtltd.yellowridesdrivers">
@@ -65,14 +63,31 @@ Official driver app helping partners manage rides, routes, and earnings efficien
 
 ---
 
+### 💰 SpendSync – Personal Finance Management
+
+A comprehensive Flutter finance app for budgeting, analytics, and expense sharing.
+
+✔ Expense & income tracking  
+✔ Budget & goals management  
+✔ Expense splitting with friends  
+✔ Analytics & visual reports  
+✔ Secure Firebase authentication  
+✔ Offline support & notifications  
+
+<a href="https://play.google.com/store/apps/details?id=com.rml.spendsync">
+<img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play"/>
+</a>
+
+---
+
 ### 🧘 Bhav – Meditation & Mantra Japa App
 
-A peaceful mindfulness app for mantra chanting, meditation, and inner calm.
+Mindfulness app for meditation, mantra chanting, and inner calm.
 
 ✔ Japa counter  
 ✔ Meditation timer  
 ✔ Calming music  
-✔ Minimal distraction-free UI  
+✔ Minimal UI  
 
 <a href="https://play.google.com/store/apps/details?id=com.arml.bhav">
 <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play"/>
